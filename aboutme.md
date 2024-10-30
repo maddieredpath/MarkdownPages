@@ -5,3 +5,5 @@
 2. I run a non-profit called Fight Night Mizzou.
    1. Here is the [website](https://www.fightnightmiz.com/) for it.
 3. My favorite animal is a lion.
+
+Click [Here](https://github.com/maddieredpath/MarkdownPages/blob/main/README.md) to return to the homepage. 
