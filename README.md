@@ -1,3 +1,3 @@
-# Click Below to learn a bit more about me and what interests me!
+# Click Below to learn some thangs! 
 
 ### About [ME!](https://github.com/maddieredpath/MarkdownPages/blob/main/aboutme.md)
