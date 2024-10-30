@@ -7,3 +7,4 @@ See some of my **FAVORITE** people below!
 ### My Amazing Friends!
 ![friends](https://i.imgur.com/QskhAKk.jpeg)
 
+Click [Here](https://github.com/maddieredpath/MarkdownPages/blob/main/README.md) to return to the homepage. 
